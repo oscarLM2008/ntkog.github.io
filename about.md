@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Estamos en directo en un curso de git!
+No Estamos en directo en un curso de git!
 
 ### More Information
 
